@@ -4,11 +4,11 @@ Elastic Block Store EC2 인스턴스에 장착하여 사용할 수 있는 가상
 
 
 
-**RAID \(redundant array of inexpensive disk\)** 데이터를 분할해서 복수의 자기 디스크 장치에 대해 병렬로 데이터를 읽는 장치 또는 읽는 방식.
+**`RAID (redundant array of inexpensive disk)`** `데이터를 분할해서 복수의 자기 디스크 장치에 대해 병렬로 데이터를 읽는 장치 또는 읽는 방식.`
 
-**AMI \(Amazon Machine Image\)** OS가 설치된 형태이며 이 AMI로 EC2 인스턴스를 생성합니다.
+**`AMI (Amazon Machine Image)`**`OS가 설치된 형태이며 이 AMI로 EC2 인스턴스를 생성합니다.`
 
-**IOPS \(INput/OUTput Operation Per Second\)** 저장 장치의 성능 측정 단위. 16KB 단위로 처리되기 때문에 16KB를 채워서 전송하면 효율이 높아진다.
+**`IOPS (INput/OUTput Operation Per Second)`** `저장 장치의 성능 측정 단위. 16KB 단위로 처리되기 때문에 16KB를 채워서 전송하면 효율이 높아진다.`
 
 
 
