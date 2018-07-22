@@ -1,6 +1,6 @@
 # Table of contents
 
-* [개인 스터디](README.md)
+* [욕심쟁이 스터디](README.md)
 * [알고리즘](study/README.md)
   * [정렬](study/undefined/README.md)
     * [버블정렬](study/undefined/undefined.md)
@@ -29,4 +29,5 @@
     * [Factory Pattern](java/undefined/factory-pattern.md)
 * [PYTHON](python.md)
 * [SCALA](scala.md)
+* [AWS](aws.md)
 
